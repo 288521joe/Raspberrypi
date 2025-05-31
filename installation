@@ -1,0 +1,12 @@
+### HOW TO DOWNLOAD AND RUN RASPBERRYPI OS
+
+convert the memory card to external BOOT format ( i didnt done yet, refer internet and update) 
+
+Download Raspberrypi OS from https://www.raspberrypi.com/software/
+and upload in the memory card.
+
+download xming server from https://sourceforge.net/projects/xming/
+Go to control pannel - select the net and make it sharable to the pinetwork
+
+download putty64  https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+run putty
